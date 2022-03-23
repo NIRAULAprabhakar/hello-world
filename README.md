@@ -1,2 +1,2 @@
 # hello-world
-This is my first time on github. I am proud of how far you've come
+This was my first time on github. Proud of how far I've come
